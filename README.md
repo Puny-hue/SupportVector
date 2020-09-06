@@ -1,2 +1,2 @@
-# SupportVector
-R_Codes/SupportVector
+# SupportVectorMachine
+R_Codes/SupportVectorMachine
